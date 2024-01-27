@@ -1,4 +1,3 @@
-
 package emart.dbutil;
 
 import java.sql.Connection;
@@ -8,7 +7,7 @@ import javax.swing.JOptionPane;
 
 
 public class DBConnection {
-    private static Connection con;
+    private static Connection con=null;
     static{
         try{
             Class.forName("oracle.jdbc.OracleDriver");
