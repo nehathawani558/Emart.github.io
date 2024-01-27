@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/RemoveReceptionistFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/ViewReceptionistFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/UpdateItemFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/dbutil/DBConnection.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/DAO/ProductDAO.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/DAO/EmployeesDAO.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/LoginFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/RemoveEmployeeFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/AddReceptionistFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/ViewEmployeeFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/pojo/ProductsPojo.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/ViewStockFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/pojo/EmployeePojo.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/pojo/UserProfile.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/ViewOrderFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/DAO/ReceptionistDAO.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/ManageStocksFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/DAO/UserDAO.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/UpdateReceptionistFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/AddItemFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/pojo/BarCode_IMG_Generator.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/pojo/UserPojo.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/AddEmployeeFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/DAO/OrderDAO.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/pojo/ReceptionistPojo.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/RemoveItemFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/BillingFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/ReceptionistOptionFrame.java</file>
+            <file>file:/D:/MyNetbeansApp/EMART/src/emart/gui/ManagerOptionFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
