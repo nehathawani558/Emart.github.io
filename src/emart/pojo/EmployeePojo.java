@@ -8,8 +8,9 @@ public class EmployeePojo {
     private String job;
     private double salary;
 
-    public void setEmpid(String empid) {
+    public int setEmpid(String empid) {
         this.empid = empid;
+        return 0;
     }
 
     public void setEmpname(String empname) {
